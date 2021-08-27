@@ -5,6 +5,11 @@ public class TEst {
 	int b=3;
 	int c=4;
 	
+
 	int d=15;
-	int f=17;
+	
+
+	
+	int e=6;
+
 }
